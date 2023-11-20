@@ -20,9 +20,10 @@
 
 <br />
 
-- A passionate Front-end developer - Playing CTF's at spare time -
-  Currently studying Computer Science - I’m currently open for an Intern or a new
-  job opportunity, this is [my resume](https://github.com/Zuzeeeee/Curriculum-Vitae/blob/main/resume_en.pdf)
+- A passionate Front-end developer
+- Playing CTF's at spare time
+- Currently studying Computer Science
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/Zuzeeeee/Curriculum-Vitae/blob/main/resume_en.pdf)
 
 <br /><br />
 
