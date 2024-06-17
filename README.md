@@ -22,7 +22,7 @@
 
 - A passionate Front-end developer
 - Currently studying Computer Science
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/Zuzeeeee/Curriculum-Vitae/blob/main/resume_en.pdf)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/Zuzeeeee/Curriculum-Vitae/blob/main/Jose_Alves_Software_Engineer.pdf)
 
 <br /><br />
 
